@@ -13,7 +13,7 @@
 
 ---
 
-### 🚀 Projects
+### 🚀 Future-Projects
 - 🧠 **Stock Price Predictor** – LSTM-based model for forecasting prices.
 - 🔍 **EDA on COVID-19 Dataset** – Country-wise and time-wise trends.
 - 🏥 **Kidney Stone Detection using CNN** – Deep learning project with image data.
@@ -27,7 +27,7 @@
 
 ---
 
-### 📫 Connect With Me
+<!--### 📫 Connect With Me
 - 📧 Email: your.email@example.com
 - 🌐 Portfolio: [xavierdsml.github.io](https://xavierdsml.github.io)
 - 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
