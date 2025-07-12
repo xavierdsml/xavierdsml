@@ -29,7 +29,6 @@
 
 ### 📫 Connect With Me
 - 📧 Email: gupaausharr@gmail.com
-- 🌐 Portfolio: [xavierdsml.github.io](https://xavierdsml.github.io)
 - 💼 LinkedIn: [https://linkedin.com/in/tusshharrrr](https://www.linkedin.com/in/guptaatusharr/)
 
 ---
