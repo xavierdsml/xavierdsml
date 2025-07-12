@@ -7,9 +7,9 @@
 
 💻 Currently diving deeper into:
 - Supervised & Unsupervised ML
-- Neural Networks (PyTorch & TensorFlow)
+- Neural Networks (PyTorch)
 - Data Analysis with Pandas, NumPy, SQL
-- Building Dashboards with Power BI & Tableau
+- Building Dashboards with Power BI
 
 ---
 
@@ -23,14 +23,14 @@
 
 ### 🛠 Tech Stack
 `Python` | `SQL` | `Pandas` | `NumPy` | `Scikit-learn` | `Matplotlib` | `Seaborn`  
-`PyTorch` | `TensorFlow` | `Power BI` | `Tableau` | `Git & GitHub`
+`PyTorch` | `Power BI` | `Git & GitHub`
 
 ---
 
-<!--### 📫 Connect With Me
-- 📧 Email: your.email@example.com
+### 📫 Connect With Me
+- 📧 Email: gupaausharr@gmail.com
 - 🌐 Portfolio: [xavierdsml.github.io](https://xavierdsml.github.io)
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 💼 LinkedIn: [(https://linkedin.com/in/tusshharrrr)](https://www.linkedin.com/in/guptaatusharr/)
 
 ---
 
