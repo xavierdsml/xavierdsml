@@ -28,7 +28,7 @@
 ---
 
 ### 📫 Connect With Me
-- 📧 Email: gupaausharr@gmail.com
+- 📧 Email: guptaatusharr@gmail.com
 - 💼 LinkedIn: [https://linkedin.com/in/tusshharrrr](https://www.linkedin.com/in/guptaatusharr/)
 
 ---
