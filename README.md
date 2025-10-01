@@ -22,7 +22,7 @@
 ---
 
 ### 🛠 Tech Stack
-`Python` | `SQL` | `Pandas` | `NumPy` | `Scikit-learn` | `Matplotlib` | `Seaborn` | `Power BI` | `Git & GitHub`
+`Python` | `SQL` | `Pandas` | `NumPy` | `Scikit-learn` | `Matplotlib` | `Seaborn` | `Power BI` | `Git & GitHub` |`Keras`
 
 ---
 
